@@ -1,0 +1,4 @@
+#Thu Jan 25 18:28:13 ICT 2018
+base.0=/Users/gaaus/Desktop/Demo/MyLib/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/gaaus/Desktop/Demo/MyLib/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

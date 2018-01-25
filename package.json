@@ -1,0 +1,20 @@
+{
+  "name": "react-native-loud-speaker",
+  "version": "1.0.3",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "loud-speaker"
+  ],
+  "author": "huutq <huutq88@gmail.com>",
+  "homepage": "https://github.com/huutq88/react-native-loud-speaker",
+    "bugs": {
+        "url": "https://github.com/huutq88/react-native-loud-speaker/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/huutq88/react-native-loud-speaker.git"
+    }
+}
