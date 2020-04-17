@@ -1,6 +1,6 @@
 {
   "name": "react-native-loud-speaker",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "keywords": [
     "react-native",
     "react-component",
@@ -8,6 +8,8 @@
     "android",
     "loud-speaker"
   ],
+  "license": "MIT",
+  "description": "A node modules can open loud speaker for react native. Support for ios and android",
   "author": "huutq <huutq88@gmail.com>",
   "homepage": "https://github.com/huutq88/react-native-loud-speaker",
     "bugs": {
